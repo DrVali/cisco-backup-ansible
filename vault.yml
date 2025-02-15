@@ -1,0 +1,4 @@
+ansible_user: swa
+ansible_password: cisco
+ansible_become_password: cisco
+
