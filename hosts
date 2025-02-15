@@ -1,2 +1,2 @@
-swc ansible_host=172.0.0.239 ansible_user=swa
-swh ansible_host=172.0.0.236 ansible_user=swa
+swc ansible_host=170.0.0.239 ansible_user=swa
+swh ansible_host=170.0.0.236 ansible_user=swa
